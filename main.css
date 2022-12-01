@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    max-width: 1920px;
+    max-height: 1080px;
+    font-family: sans-serif;
+    display: center;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    text-align: justify;
+
+}
+
+p {
+    font-size: 13px;
+    line-height: 13px;
+    text-align: justify;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: url(gtr.jpeg);
+    background-attachment: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgb (255,255,255,0.1);
+    -webkit-background-clip: text; 
+
+}
